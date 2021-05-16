@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "의사 지망생"
+title                    : "소아청소년과 소화기질환 치료법"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김동연"
@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "김동연"
-  avatar           : "/assets/images/snowball.png"
-  bio              : "동동"
+  avatar           : "/assets/images/.png"
+  bio              : "소아청소년과 의사 지망생"
   location         : "대한민국, 서울"
   email            : "21-21003@hafs.hs.kr"
   links:
