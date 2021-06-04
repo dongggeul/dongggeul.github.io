@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "유튜브 동영상 삽입하기"
+title: "소아청소년과 전공의 브이로그"
 ---
 
 {% include video id="MZLb2U1k3bs" provider="youtube" %}
