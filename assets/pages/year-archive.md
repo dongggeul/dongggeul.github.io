@@ -3,6 +3,7 @@ title: "문법 개념"
 layout: categories
 permalink: /categories/
 author_profile: true
+---
 layout: single 
 title: "다중 및 무한반복문, break, continue"
 toc: true
